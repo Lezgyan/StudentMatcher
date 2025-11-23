@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  db:
+    image: mariadb:10.11
+    container_name: admissions-db
+    environment:
+      MYSQL_ROOT_PASSWORD:
+      MYSQL_DATABASE: ssubase
+    ports:
+      - "3308:3306"
+    volumes:
+      - ./db/init:/docker-entrypoint-initdb.d:ro
+      - dbdata:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "mariadb-admin ping -uroot -p$${MYSQL_ROOT_PASSWORD} --silent"]
+      interval: 5s
+      timeout: 3s
+      retries: 30
+
+volumes:
+  dbdata:

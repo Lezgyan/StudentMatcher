@@ -1,0 +1,23 @@
+global:
+  # Папка, куда приложение будет выгружать результаты обработки
+  result-folder: answer
+
+  # Источник данных:
+  #   DB  – читать из базы данных
+  #   CSV – читать из CSV файлов
+  data-source: DB
+
+# Если в качестве источника данных используется CSV файл
+csv:
+  # Папка с CSV файлами входных данных
+  data-folder: resource
+  departments-file: departments.csv
+  students-file: students.csv
+
+# Если в качестве источника данных используется база данных
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost:3308/ssubase
+    username: root
+    password:
+    driver-class-name: org.mariadb.jdbc.Driver

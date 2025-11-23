@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd0672e3-80cf-4c93-881c-68dbacaf976a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;myContext&quot;,
+      &quot;originalNamespace&quot;: &quot;th2-cradleapi-31&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="myContext" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="35Cs68sel5yEhSpGjBSWIX6TFTj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdmissionsConsoleJpaApp (1).executor": "Run",
+    "Application.AdmissionsConsoleJpaApp.executor": "Run",
+    "Application.test.executor": "Run",
+    "Database Script.abit_dump.sql.executor": "Run",
+    "Maven.admissions-console-spring [-q...].executor": "Run",
+    "Maven.admissions-console-spring [clean].executor": "Run",
+    "Maven.admissions-console-spring [compile].executor": "Run",
+    "Maven.admissions-console-spring-jpa [clean].executor": "Run",
+    "Maven.admissions-console-spring-jpa [compile].executor": "Run",
+    "Maven.admissions-console-spring-jpa [spring-boot:run].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AdmissionsConsoleJpaApp.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lezgy/Desktop/admissions-console-spring-jpa (3)/admissions-console-spring-jpa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3044693",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ],
+    "RunConfigurationTargetLRU": [
+      "41c69eb5-da0a-470c-b6af-84f19c5522c1",
+      "41c69eb5-da0a-470c-b6af-84f19c5522c1/schema/\"ssubase\""
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\admissions-console-spring-jpa\db\init" />
+      <recent name="D:\JAVA\admissions-console-spring-jpa\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.admissionsjpa.csv" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn spring-boot:run" />
+      <command value="mvn -q -DskipTests spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AdmissionsConsoleJpaApp (1)">
+    <configuration name="AdmissionsConsoleJpaApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.admissionsjpa.AdmissionsConsoleJpaApp" />
+      <module name="admissions-console-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.admissionsjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdmissionsConsoleJpaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.admissionsjpa.AdmissionsConsoleJpaApp" />
+      <module name="admissions-console-spring-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.admissionsjpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.admissionsjpa.config.test" />
+      <module name="admissions-console-spring-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.admissionsjpa.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abit_dump.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="F:/Загрузки/Telegram Desktop/abit_dump.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="41c69eb5-da0a-470c-b6af-84f19c5522c1" namespace="schema/&quot;ssubase&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="export_data.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/export_data.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="AdmissionsConsoleJpaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="admissions-console-spring-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.admissionsjpa.AdmissionsConsoleJpaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdmissionsConsoleJpaApp (1)" />
+        <item itemvalue="Application.AdmissionsConsoleJpaApp" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd0672e3-80cf-4c93-881c-68dbacaf976a" name="Changes" comment="" />
+      <created>1762625209592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762625209592</updated>
+      <workItem from="1762625210742" duration="7457000" />
+      <workItem from="1762646197590" duration="1354000" />
+      <workItem from="1762647758656" duration="824000" />
+      <workItem from="1762679562020" duration="1024000" />
+      <workItem from="1762883634025" duration="6591000" />
+      <workItem from="1762968938564" duration="2008000" />
+      <workItem from="1763296795045" duration="3303000" />
+      <workItem from="1763486526220" duration="8808000" />
+      <workItem from="1763566507533" duration="4222000" />
+      <workItem from="1763570852239" duration="6389000" />
+      <workItem from="1763820132962" duration="666000" />
+      <workItem from="1763917700182" duration="1623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
